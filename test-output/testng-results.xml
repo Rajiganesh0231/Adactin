@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38172" started-at="2021-03-07T11:38:07Z" finished-at="2021-03-07T11:38:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38172" started-at="2021-03-07T11:38:07Z" finished-at="2021-03-07T11:38:46Z">
+      <class name="helper.PdfHandling">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:helper.PdfHandling@7d9d1a19]" name="setUp" is-config="true" duration-ms="10999" started-at="2021-03-07T11:38:07Z" finished-at="2021-03-07T11:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyContentInPDf()[pri:0, instance:helper.PdfHandling@7d9d1a19]" name="verifyContentInPDf" duration-ms="26935" started-at="2021-03-07T11:38:19Z" finished-at="2021-03-07T11:38:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContentInPDf -->
+      </class> <!-- helper.PdfHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
